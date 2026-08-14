@@ -1,248 +1,177 @@
-<div align="center">
-<!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Abhishek%20Kumar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Architect&descAlignY=55&descSize=18"/>
-<!-- TYPING SVG TAGLINE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+production-ready+web+apps+%F0%9F%9A%80;AI-powered+SaaS+architect+%F0%9F%A4%96;Turning+coffee+into+code+since+2023+%E2%98%95;Open+source+enthusiast+%F0%9F%92%9A" alt="Typing SVG" />
+```markdown
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi+there%2C+I'm+Abhishek+Kumar+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Expert;Building+AI-Powered+Web+Apps" alt="Typing SVG" />
+</h1>
 
-<!-- SOCIAL BADGES -->
-https://www.linkedin.com/in/abhishek-kumar-502b40324/
-mailto:abhishekchhatraliya@gmail.com
-https://github.com/abhishek4524
-https://akitchenai.in
-</div>
-<!-- ASCII ART SELF PORTRAIT -->
-<pre align="center">
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   █████╗ ██████╗ ██╗  ██╗██╗  ██╗███████╗██╗  ██╗███████╗    ║
-║   ██╔══██╗██╔══██╗██║ ██╔╝██║  ██║██╔════╝██║  ██║██╔════╝    ║
-║   ███████║██████╔╝█████╔╝ ███████║█████╗  ███████║█████╗      ║
-║   ██╔══██║██╔══██╗██╔═██╗ ██╔══██║██╔══╝  ██╔══██║██╔══╝      ║
-║   ██║  ██║██████╔╝██║  ██╗██║  ██║███████╗██║  ██║███████╗    ║
-║   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝    ║
-║                                                              ║
-║        ┌─────────────────────────────────────────┐            ║
-║        │  $ whoami                               │            ║
-║        │  > Full Stack Developer                 │            ║
-║        │  > MERN Stack Specialist                │            ║
-║        │  > AI Integration Expert                │            ║
-║        │  > B.Tech CSE @ AKTU (2023-2027)        │            ║
-║        └─────────────────────────────────────────┘            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
-🖥️ system_info --user=abhishek
-bash
-$ neofetch --dev
-
-                   .~vVeZNgQBBBQQg9Ze1v~.                   abhishek@github
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}^`              ───────────────
-           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-           OS: MERN Stack / AI-Native
-         .V@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@V.         Host: CodenexaOnline (Intern)
-        l@@@@@@Ov~`            `~vOQ@@@@@@@@@@@@@@l         Kernel: B.Tech CSE @ AKTU
-       l@@@@@@`                      `Q@@@@@@@@@@@@l        Uptime: 2023 - Present
-      l@@@@@Q                          g@@@@@@@@@@@l        Shell: zsh + node + react
-     .@@@@@@                            v@@@@@@@@@@@.       DE: VS Code + Postman + Git
-     l@@@@@Q                             Q@@@@@@@@@@l       WM: Tailwind CSS
-     Q@@@@@                              Q@@@@@@@@@@Q       Theme: Dark+ (Monokai Pro)
-     Q@@@@@                              Q@@@@@@@@@@Q       Icons: Material Icon Theme
-     Q@@@@@                              Q@@@@@@@@@@Q       Terminal: Hyper / iTerm2
-     Q@@@@@Q                            q@@@@@@@@@@@Q       CPU: Brain @ 3.5GHz (Caffeine Boost)
-     `Q@@@@@6                        `6@@@@@@@@@@@@`        GPU: RTX Creativity
-      `Q@@@@@@g^                  `^g@@@@@@@@@@@@@`         Memory: 16GB RAM / ∞ Curiosity
-        X@@@@@@@Qmv~.        .~vmQ@@@@@@@@@@@@@X            Languages: JavaScript, Python, SQL
-          X#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#X              Frameworks: React, Next.js, Node, Express
-            `vR#@@@@@@@@@@@@@@@@@@@@@@@@#Rv`                Databases: MongoDB, MySQL, Redis, SQLite
-                `^vLwgQQQQQQQQQQQwgLv^`                     Hobbies: Coding, System Design, Open Source
-
-                                                            ● ● ● ● ● ● ● ● ● ●
-                                                            ███████████████████
-                                                            99% Caffeine Loaded
-🚀 cat featured_projects.json
-<details open>
-<summary><b>📦 Production-Ready Builds</b></summary>
-<br>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍳 AKitchen AI</h3>
-      <p align="center">
-        <a href="https://akitchenai.in" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/abhishek4524/akitchen-ai" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>AI-Powered Recipe & Meal Planner processing <b>1,000+ ingredient queries/day</b> via integrated LLM API. MongoDB indexing optimization (40% faster queries), 99% uptime, full Jest/Postman test coverage.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLM_API-FF6F00?style=flat&logo=openai&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 VisioDraft</h3>
-      <p align="center">
-        <a href="https://visio-draft.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/abhishek4524/visio-draft" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>Real-time collaborative mind-mapping platform with <b>concurrent multi-user workspaces</b> and AI-powered brainstorming suggestions. Deployed on Vercel with CI/CD pipeline.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <h3 align="center">🔐 API Coleen</h3>
-      <p align="center">
-        <a href="https://apicoleen.in" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/abhishek4524/api-coleen" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Production-ready SaaS with <b>multi-provider LLM proxy routing</b> (OpenAI, Anthropic, Gemini, Groq, OpenRouter), real-time cost tracking, AES-256-GCM encrypted key storage, Razorpay billing, and 3-layer team permission scoping.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat&logo=razorpay&logoColor=white" />
-        <img src="https://img.shields.io/badge/AES_256_GCM-FF6F00?style=flat&logo=security&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-</details>
-⚡ htop --skills
-<!-- SKILL BARS WITH UNICODE BLOCKS -->
-diff
-@@ CORE LANGUAGES @@
-
-JavaScript/TypeScript  ████████████████████████████████████████  95%
-Python                 ████████████████████████████████████░░░░  85%
-SQL                    ██████████████████████████████████░░░░░░  80%
-HTML/CSS               ██████████████████████████████████████░░  92%
-
-@@ FRAMEWORKS & LIBRARIES @@
-
-React.js               ███████████████████████████████████████░  96%
-Next.js                █████████████████████████████████████░░░░  88%
-Node.js                ███████████████████████████████████████░  95%
-Express.js             ██████████████████████████████████████░░  90%
-Tailwind CSS           ███████████████████████████████████████░  94%
-
-@@ DATABASES & CACHE @@
-
-MongoDB                ██████████████████████████████████████░░  90%
-MySQL                  ████████████████████████████████████░░░░  85%
-Redis                  ████████████████████████████████░░░░░░░░  75%
-SQLite                 ████████████████████████████████████░░░░  82%
-
-@@ DEVOPS & TOOLS @@
-
-Git/GitHub             ███████████████████████████████████████░  93%
-AWS                    ███████████████████████████████░░░░░░░░░  72%
-Vercel                 █████████████████████████████████████░░░░  88%
-Postman                ███████████████████████████████████████░  95%
-Docker                 ████████████████████████████░░░░░░░░░░░░  68%
-<details>
-<summary><b>🧰 Click to expand full tech arsenal</b></summary>
-<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,mysql,redis,html,css,tailwind,git,github,aws,vercel,postman,vscode,docker,linux&perline=11" />
+  <a href="https://www.linkedin.com/in/abhishek-kumar-502b40324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhishekchhatraliya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/abhishek4524">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://abhishek-kumar.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
-</details>
-🐍 git log --graph --oneline --all
-<!-- CONTRIBUTION SNAKE - Most creative & reliable element -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek4524/abhishek4524/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek4524/abhishek4524/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/abhishek4524/abhishek4524/output/github-contribution-grid-snake.svg" />
-</picture>
-📝 Note: The snake auto-generates daily via GitHub Actions. It eats your contribution graph!
-To set this up, create .github/workflows/snake.yml in your profile repo. Learn more
-📡 ping career.trajectory
-plain
-[2023] ████████████████████░░░░░░░░░░░░░░░░░░░░  Started B.Tech CSE @ AKTU
-[2024] ██████████████████████████████░░░░░░░░░░  Built 5+ Production Apps
-[2025] ████████████████████████████████████░░░░  Full-Stack Intern @ CodenexaOnline
-[2026] ████████████████████████████████████████  Exploring React Native & System Design
-[2027] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Graduation & Beyond... 🚀
-🎯 ps aux | grep currently
-diff
-+ PID     USER      CPU%   MEM%   CMD
-+ 1337    abhishek  45.2   12.4   ./build-react-native-app
-+ 2048    abhishek  32.1   8.7    ./learn-system-design
-+ 4096    abhishek  15.8   4.2    ./contribute-open-source
-+ 8192    abhishek  6.9    2.1    ./drink-coffee --refill
-🎮 curl -s api.github.com/users/abhishek4524/repos | jq '.[] | select(.stargazers_count > 0)'
+
+---
+
+### 🚀 About Me
+
+```bash
+$ whoami
+> Abhishek Kumar — Full Stack Developer & MERN Specialist
+
+$ cat skills.txt
+> React.js, Next.js, Node.js, Express.js, MongoDB, SQL, Python, AWS, Tailwind CSS
+
+$ uptime
+> 24/7 building production-ready web apps & exploring AI integrations
+
+$ current_status
+> Open to collaborations, freelance projects, and full-time roles
+```
+
+- 💼 Full Stack Developer with **5+ production apps** deployed and serving real users
+- 🧠 Strong foundation in **DSA, OOP, REST APIs**, and scalable system design
+- 🏢 Full-Stack Developer Intern @ **CodenexaOnline** (Jun 2025 – Sep 2025)
+- 🎓 B.Tech, Computer Science & Engineering — AKTU, Lucknow (2023 – 2027)
+- 🌱 Currently deep-diving into **React Native** and **advanced system design**
+- 🤝 Open to collaborating on **MERN Stack**, **AI-powered**, and **SaaS** projects
+- 💬 Ask me about **web development, REST APIs, or SaaS architecture**
+- 📫 Reach me at **abhishekchhatraliya@gmail.com**
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[AKitchen AI](https://akitchenai.in)** | AI-powered recipe & meal planner processing **1,000+ ingredient queries/day**. Optimized with MongoDB indexing (40% faster queries), 99% uptime, full Jest/Postman test coverage. | `React.js` `Node.js` `MongoDB` `Tailwind CSS` `LLM API` |
+| **[VisioDraft](https://visio-draft.vercel.app)** | Real-time collaborative mind-mapping platform with concurrent multi-user workspaces and AI-powered brainstorming suggestions. CI/CD deployed on Vercel. | `React.js` `Next.js` `Node.js` `Tailwind CSS` |
+| **[API Coleen](https://apicoleen.in)** | Production-ready SaaS for LLM API cost monitoring & multi-provider proxy routing (OpenAI, Anthropic, Gemini, Groq, OpenRouter). Features AES-256-GCM encrypted key storage, Razorpay billing, and 3-layer team permission scoping. | `Next.js` `Node.js` `Express` `MongoDB` `Razorpay` |
+
 <details>
-<summary><b>🏆 Achievement Unlocked</b></summary>
+<summary><b>🔍 More Projects</b></summary>
 <br>
-Table
-Badge	Achievement	Date
-🚀	First Production Deploy	2024
-🤖	AI Integration Master	2025
-🌟	Open Source Contributor	2025
-💼	Industry Internship	2025
-🔥	1000+ Daily API Requests Handled	2025
-⚡	99% Uptime Maintained	2025
-🧠	LLM Proxy Architecture Built	2025
+- **DevConnect** — Social network for developers with authentication, profiles, and posts.
+- **TaskFlow** — Kanban-style project management tool with drag-and-drop.
+- **E-Commerce Platform** — Full-featured store with cart, payments, and admin dashboard.
 </details>
-📬 ssh abhishek@contact.me
-<div align="center">
-bash
-$ echo "Let's build something amazing together!"
-https://www.linkedin.com/in/abhishek-kumar-502b40324/
-mailto:abhishekchhatraliya@gmail.com
-https://github.com/abhishek4524
-📧 abhishekchhatraliya@gmail.com
-</div>
-<!-- EASTER EGG SECTION -->
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,express,mongodb,mysql,sqlite,redis,tailwind,html,css,git,github,postman,aws,vercel" alt="Tech Stack Icons" />
+  </a>
+</p>
+
 <details>
-<summary>🥚 <b>You found an easter egg! Click me...</b></summary>
+<summary><b>🔍 Detailed Badges</b></summary>
 <br>
-<pre align="center">
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   CONGRATULATIONS! You have discovered the secret developer      ║
-║   manifesto. Read it wisely:                                     ║
-║                                                                  ║
-║   1. First, solve the problem.                                   ║
-║   2. Then, write the code.                                       ║
-║   3. If it works, don't touch it.                                ║
-║   4. If it doesn't work, add coffee.                             ║
-║   5. If still broken, blame the cache.                           ║
-║   6. rm -rf node_modules && npm install fixes everything.        ║
-║                                                                  ║
-║   P.S. - I use Arch, btw. (Just kidding, I use Ubuntu + WSL)     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-</pre>
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
 </details>
-<div align="center">
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
-Made with ❤️, ☕, and a lot of console.log()
-plain
-     ___      .__   __.      _______.  _______   ______   .______      
-    /   \     |  \ |  |     /       | /  _____| /  __  \  |   _  \     
-   /  ^  \    |   \|  |    |   (----`|  |  __  |  |  |  | |  |_)  |    
-  /  /_\  \   |  . `  |     \   \    |  | |_ | |  |  |  | |      /     
- /  _____  \  |  |\   | .----)   |   |  |__| | |  `--'  | |  |\  \----.
-/__/     \__\ |__| \__| |_______/     \______|  \______/  | _| `._____|
-⭐ Star some repos if you like what you see! ⭐
-</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek4524&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4524&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhishek4524&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4524&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek4524&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<!-- Optional: Snake animation (requires GitHub Action)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhishek4524/abhishek4524/output/snake.svg" alt="Snake animation" />
+</p>
+-->
+
+---
+
+### 🧠 Fun Fact / Terminal Quote
+
+```
+$ cat quote.txt
+> "The only way to do great work is to love what you do." — Steve Jobs
+```
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-kumar-502b40324/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abhishekchhatraliya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20a%20Mail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/abhishek4524">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishek4524&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>⚡ Crafted with passion, code, and a lot of ☕</i>
+</p>
+```
